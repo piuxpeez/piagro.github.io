@@ -1,0 +1,56 @@
+.container{padding:;}
+.navbar-brand{background-color: ;
+    font-family: cursive;
+    box-shadow:3px  4px 10px inset rgb(168, 167, 167);}
+    
+    .col-sm-4{box-shadow:3px  4px 10px inset silver;
+    background-color:white;
+    height:341px;
+padding:2px;}
+    img{width:100%;
+    height: 123px;;}
+    p{text-align: justify;
+    margin: 23px;}
+    h4{font-family: monospace;
+    font-weight: 900;
+    color:black;
+    font-variant: small-caps;
+    font-size: 43px;}
+
+    h5{font-family: monospace;
+        font-weight: lighter;
+        color:black;
+        font-variant: small-caps;
+        font-size: 33px;}
+
+
+
+    h1{font-family: monospace;
+    font-weight: 900;
+    color:black;
+    font-variant: small-caps;
+    font-size: 63px;
+    margin: 32px;
+}
+h2{font-family: monospace;
+    font-weight: 900;
+    color:black;
+    font-variant: small-caps;
+    font-size: 53px;
+    margin: 32px;
+}
+.foter{background-color: black;
+color: blanchedalmond;}
+
+.text{background-color: black;
+    color: blanchedalmond;}
+/*
+    row im{transition: all 1.5 ease;}
+    row im:hover{transform: scale(1.5);
+    overflow: hidden;
+width:99%:}
+    
+
+    
+
+section{display: non;}

@@ -1,0 +1,78 @@
+
+
+container{padding: 12px;}
+background-image:rl("road-bg.jpg");}
+b{color: rgb(199, 196, 191);
+borde:  inset rgb(199, 196, 191);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+
+section2{background-color: rgb(140, 150, 150);}
+section{background-image:url("oilngas-bg.jpg");
+background-repeat: no-repeat;
+background-position:initial;
+width:100%;
+background-size:auto;
+
+height: 670px;
+}
+
+.p{margin: 113px;
+    text-align: center;
+    color: rgb(253, 255, 254);
+line-break:strict;
+font-variant:unset;
+list-style:georgian;
+font-style:;
+font-size: 13PX;
+font-weight: 600;
+padding: 4px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+ h1{font-weight: 900;
+font-style: normal;}
+
+nav .navbar-nav li a{font-weight: 600;
+    color: rgb(240, 238, 238) !important;
+    opacity: 1;
+    }
+    .navbar-brand{color: aliceblue; im !important}
+    .navbar-toggler-icon{color:red;
+    
+    }
+    #navbarNavDropdown{
+        margin-left:32px;
+        padding:21px;
+        width: 1000px;
+        transition:1s;
+        background-position: center;
+    }
+       
+    .h{}
+    
+    .navbarNavDropdown{
+        margin-left:32px;
+        padding:21px;
+        width: 1000px;
+        background-image:url("oilngas-bg.jpg");
+        transition:1s;
+        background-position: center;
+        border:7px outset  rgb(117, 248, 248);
+    }
+       spin{display: none;}
+
+       h2{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+        ;
+    color: rgb(40, 28, 146);}
+
+    .h4,h4{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+        ;
+        font-weight: 900;
+        font-size: 43px;
+    color: rgb(241, 231, 231);
+        position: absolute;
+        top:50%;
+        left:50%;
+        transform:translate(-50%,-50%);
+    }
+    .space{height: 23px;}
