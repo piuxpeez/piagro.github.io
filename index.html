@@ -57,6 +57,7 @@ html {
 }
 #up a{bottom:54px;
 Z-index:1;
+Display:none;
 Position:fixed;
 font-style:monospace;
 font-size:23px;
@@ -76,7 +77,18 @@ color:gray;
 text-decoration:none;
 }
 </style>
+<script>
+$(document).ready(function(){
+let w =window.scrollY;
 
+if(w=>200)
+{$("up").show()}
+else{
+$("up").hide()}
+
+);}
+
+</script>
 
 
 </head>
