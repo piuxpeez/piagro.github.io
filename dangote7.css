@@ -1,5 +1,3 @@
-
-
 container{padding: 12px;}
 background-image:rl("road-bg.jpg");}
 b{color: rgb(199, 196, 191);
@@ -13,7 +11,8 @@ section2{background-color: rgb(140, 150, 150);}
 section{background-image:url("oilngas-bg.jpg");
 background-repeat: no-repeat;
 background-position:initial;
-width:100%;
+width:;
+margin:-3px;
 background-size:auto;
 
 height: 670px;
@@ -23,7 +22,7 @@ height: 670px;
 .sec{background-image:url("oilngas-bg.jpg");
     background-repeat: no-repeat;
     background-position:initial;
-    width:100%;
+    margin-3px;
     background-size:auto;
     }
 .sec h1{color:ivory}
@@ -113,13 +112,14 @@ background-size:auto;
 height: 670px;
 }
 
-@media only screen and (max-width:600px){.col-sm-4{
+@media only screen and (max-width:600px){
+
+.col-sm-4{
     brder: 2px 
     solid rgb(160, 155, 155);
-margin: 10px;
-box-shadow: 4px 3px 20px;}
+margin: 2px;
+box-shadow: 4px 3px 20px red;}
 
 .pace{height:123px;}
 
 h4{text-transform: uppercase;}
-#space{background:red;}
