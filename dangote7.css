@@ -12,7 +12,7 @@ section{background-image:url("oilngas-bg.jpg");
 background-repeat: no-repeat;
 background-position:initial;
 width:;
-margin:-3px;
+margin-right:-3px;
 background-size:auto;
 
 height: 670px;
@@ -22,7 +22,7 @@ height: 670px;
 .sec{background-image:url("oilngas-bg.jpg");
     background-repeat: no-repeat;
     background-position:initial;
-    margin-3px;
+    margin-right:-3px;
     background-size:auto;
     }
 .sec h1{color:ivory}
